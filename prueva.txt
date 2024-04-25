@@ -1,0 +1,1 @@
+{"base":"USD","amount":10,"result":{"EUR":9.34,"rate":0.93415},"ms":4}
